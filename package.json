@@ -13,7 +13,7 @@
     "underscore": "*"
   },
   "devDependencies": {
-    "simple-proxies": "*",
+    "simple-proxies": "*"
   },
   "author": "christophe.lombart@gmail.com",
   "license": "ISC"

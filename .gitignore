@@ -1,3 +1,4 @@
 logs
 node_modules
 proxies.txt
+npm-debug.log
