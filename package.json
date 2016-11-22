@@ -1,0 +1,20 @@
+{
+  "name": "backlinks-serp",
+  "version": "1.0.0",
+  "description": "This module allows to execute a search on Google and get the most important backlinks from the domains's SERP",
+  "main": "index.js",
+  "dependencies": {
+    "async": "*",
+    "crawler-ninja-logger": "*",
+    "crawler-ninja-uri": "*",
+    "majestic-api" : "*",
+    "request": "*",
+    "serp": "*",
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "simple-proxies": "*",
+  },
+  "author": "christophe.lombart@gmail.com",
+  "license": "ISC"
+}
